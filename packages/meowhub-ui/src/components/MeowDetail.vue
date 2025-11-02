@@ -86,7 +86,7 @@ onMounted(() => {
     <!-- a chat textarea here -->
     <textarea
       v-model="chatMessage"
-      placeholder="Ask meowgirl a question"
+      placeholder="Ask MeowGPT a question"
       class="chat-textarea"
     ></textarea>
     <button @click="sendChatRequest" class="send-button">Send</button>

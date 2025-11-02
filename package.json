@@ -3,7 +3,7 @@
   "author": "Myriad-Dreamin",
   "license": "Apache-2.0",
   "version": "0.1.0",
-  "description": "A meow cannot be your mom, life tutor, best friend, and enemy at the same time.",
+  "description": "Nobody can be your mom, life tutor, best friend, and enemy at the same time, but MeowGPT can.",
   "main": "index.js",
   "scripts": {
     "dev:main": "pnpm --filter meowhub dev",

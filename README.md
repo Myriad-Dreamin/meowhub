@@ -1,6 +1,6 @@
 # MeowHub
 
-Somebody cannot be your mom, life tutor, best friend, and enemy at the same time, but meowgirls can.
+Nobody can be your mom, life tutor, best friend, and enemy at the same time, but MeowGPT can.
 
 没有人可以同时成为你的妈妈、生活导师、最好的朋友和敌人，但猫娘可以。
 
@@ -22,7 +22,7 @@ There could be more other roles. Please feel free to ask for one in the GitHub I
 - [x] MeowGPT can track health record.
 - [x] MeowGPT can answer questions based on her memory.
 - [ ] MeowGPT can track conversations.
-- [ ] A beautiful UI to chat with the meowgirl.
+- [ ] A beautiful UI to chat with the MeowGPT.
 - [ ] MeowGPT can reorginize her memory.
 
 ## Sample
