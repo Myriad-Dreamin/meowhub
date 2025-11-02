@@ -1,0 +1,29 @@
+{
+  "name": "meowhub",
+  "author": "Myriad-Dreamin",
+  "license": "Apache-2.0",
+  "version": "0.1.0",
+  "description": "A meow cannot be your mom, life tutor, best friend, and enemy at the same time.",
+  "main": "index.js",
+  "scripts": {
+    "dev:main": "pnpm --filter meowhub dev",
+    "build:main": "pnpm --filter meowhub build",
+    "test:main": "pnpm --filter meowhub test",
+    "dev:ui": "pnpm --filter meowhub-ui dev",
+    "build:ui": "pnpm --filter meowhub-ui build"
+  },
+  "keywords": [],
+  "packageManager": "pnpm@10.16.1",
+  "dependencies": {
+    "vite": "^6.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "tsx": "^4.7.1",
+    "typescript": "~5.9.0",
+    "vite": "^7.1.11",
+    "vite-plugin-vue-devtools": "^8.0.3",
+    "vitest": "^3.2.4",
+    "vue-tsc": "^3.1.1"
+  }
+}
